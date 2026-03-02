@@ -195,8 +195,19 @@ class AppSlider {
   }
 
   showSlide(index) {
+    const total = this.images.length;
+    const prevIndex = (index - 1 + total) % total;
+    const nextIndex = (index + 1) % total;
+
     this.images.forEach((img, i) => {
-      img.classList.toggle('active', i === index);
+      img.classList.remove('active', 'adjacent', 'adjacent-prev', 'adjacent-next');
+      if (i === index) {
+        img.classList.add('active');
+      } else if (i === prevIndex) {
+        img.classList.add('adjacent', 'adjacent-prev');
+      } else if (i === nextIndex) {
+        img.classList.add('adjacent', 'adjacent-next');
+      }
     });
     this.texts.forEach((text, i) => {
       text.classList.toggle('active', i === index);
