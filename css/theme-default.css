@@ -1,0 +1,40 @@
+/* Default Bosch eBike Theme */
+[data-theme="default"] {
+  --color-primary: #EA0016;
+  --color-primary-hover: #C7001F;
+  --color-secondary: #005691;
+  --color-bg: #FFFFFF;
+  --color-bg-alt: #F5F5F5;
+  --color-bg-dark: #1A1C1D;
+  --color-bg-purple: #7839AB;
+  --color-text: #1A1C1D;
+  --color-text-light: #6E6E6E;
+  --color-text-inverse: #FFFFFF;
+  --color-border: #E0E0E0;
+  --color-accent: #005691;
+  --font-size-base: 16px;
+  --font-size-scale: 1;
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-bold: 700;
+  --font-weight-black: 900;
+  --border-radius: 0px;
+  --border-radius-sm: 0px;
+  --border-radius-lg: 0px;
+  --spacing-scale: 1;
+  --letter-spacing: 0;
+  --transition-speed: 0.3s;
+  --hero-overlay: linear-gradient(180deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.4) 100%);
+  --button-radius: 0px;
+  --button-padding: 12px 32px;
+  --button-font-weight: 700;
+  --button-text-transform: none;
+  --card-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  --card-radius: 0px;
+  --nav-bg: #FFFFFF;
+  --nav-text: #1A1C1D;
+  --section-padding: 80px 0;
+  --grid-gap: 24px;
+  --header-height: 64px;
+  --supergraphic-color: #EA0016;
+}

@@ -1,0 +1,187 @@
+/* Sports / Mountainbikers Theme */
+[data-theme="sports"] {
+  --color-primary: #EA0016;
+  --color-primary-hover: #FF1A30;
+  --color-secondary: #FF4444;
+  --color-bg: #0A0A0A;
+  --color-bg-alt: #141414;
+  --color-bg-dark: #000000;
+  --color-bg-purple: #1A0A0A;
+  --color-text: #F0F0F0;
+  --color-text-light: #999999;
+  --color-text-inverse: #FFFFFF;
+  --color-border: #2A2A2A;
+  --color-accent: #EA0016;
+  --font-size-base: 16px;
+  --font-size-scale: 1;
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-bold: 700;
+  --font-weight-black: 900;
+  --border-radius: 2px;
+  --border-radius-sm: 2px;
+  --border-radius-lg: 4px;
+  --spacing-scale: 1;
+  --letter-spacing: 0.05em;
+  --transition-speed: 0.25s;
+  --hero-overlay: linear-gradient(180deg, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.8) 100%);
+  --button-radius: 2px;
+  --button-padding: 14px 40px;
+  --button-font-weight: 900;
+  --button-text-transform: uppercase;
+  --card-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  --card-radius: 2px;
+  --nav-bg: rgba(0,0,0,0.95);
+  --nav-text: #F0F0F0;
+  --section-padding: 80px 0;
+  --grid-gap: 20px;
+  --header-height: 64px;
+  --supergraphic-color: #EA0016;
+}
+
+[data-theme="sports"] .header-nav {
+  background: rgba(0,0,0,0.95);
+  border-bottom: 2px solid #EA0016;
+}
+
+[data-theme="sports"] .header-nav a,
+[data-theme="sports"] .header-nav span {
+  color: #F0F0F0;
+}
+
+[data-theme="sports"] .hero-section {
+  background: #000;
+}
+
+[data-theme="sports"] .hero-overline {
+  color: #EA0016;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-weight: 900;
+  font-size: 0.85rem;
+}
+
+[data-theme="sports"] .hero-headline {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+[data-theme="sports"] .btn-primary {
+  background: #EA0016;
+  border-radius: 2px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 900;
+}
+
+[data-theme="sports"] .btn-primary:hover {
+  background: #FF1A30;
+  box-shadow: 0 0 30px rgba(234,0,22,0.5);
+}
+
+[data-theme="sports"] .section {
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+[data-theme="sports"] .section--alt {
+  background: var(--color-bg-alt);
+}
+
+[data-theme="sports"] .system-teaser {
+  background: #0A0A0A;
+}
+
+[data-theme="sports"] .system-teaser__item {
+  background: #141414;
+  border: 1px solid #2A2A2A;
+}
+
+[data-theme="sports"] .system-teaser__item:hover {
+  border-color: #EA0016;
+}
+
+[data-theme="sports"] .tab-block__tab {
+  color: #999;
+  border-bottom: 2px solid transparent;
+}
+
+[data-theme="sports"] .tab-block__tab.active {
+  color: #EA0016;
+  border-bottom-color: #EA0016;
+  background: transparent;
+}
+
+[data-theme="sports"] .news-section {
+  background: #000;
+}
+
+[data-theme="sports"] .news-card {
+  background: #141414;
+  border: 1px solid #2A2A2A;
+}
+
+[data-theme="sports"] .category-card {
+  border-radius: 2px;
+}
+
+[data-theme="sports"] .slider-pagination-dot.active {
+  background: #EA0016;
+}
+
+[data-theme="sports"] .brand-section {
+  background: #0A0000;
+  border-top: 2px solid #EA0016;
+  border-bottom: 2px solid #EA0016;
+}
+
+[data-theme="sports"] .supergraphic {
+  background: #EA0016;
+}
+
+[data-theme="sports"] .footer {
+  background: #000;
+  border-top: 2px solid #EA0016;
+}
+
+[data-theme="sports"] .dealer-section {
+  background: #0A0A0A;
+  color: #F0F0F0;
+}
+
+[data-theme="sports"] .image-text-slider {
+  background: #0A0A0A;
+}
+
+[data-theme="sports"] .app-section {
+  background: #0A0A0A;
+}
+
+[data-theme="sports"] .category-section {
+  background: #0A0A0A;
+}
+
+[data-theme="sports"] .tab-section {
+  background: #0A0A0A;
+}
+
+[data-theme="sports"] .news-text {
+  opacity: 0.85;
+}
+
+[data-theme="sports"] .dealer-map-placeholder {
+  background: #141414;
+  color: #999;
+}
+
+[data-theme="sports"] .dealer-map-placeholder svg {
+  fill: #999;
+}
+
+[data-theme="sports"] .slider-prev:focus-visible,
+[data-theme="sports"] .slider-next:focus-visible,
+[data-theme="sports"] .tab-block__tab:focus-visible,
+[data-theme="sports"] .btn-primary:focus-visible {
+  outline: 2px solid #EA0016;
+  outline-offset: 2px;
+}
