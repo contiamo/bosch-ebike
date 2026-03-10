@@ -35,7 +35,7 @@
   --nav-text: #1A1A1A;
   --section-padding: 100px 0;
   --grid-gap: 32px;
-  --header-height: 72px;
+  --header-height: 64px;
   --supergraphic-color: #005691;
 }
 
@@ -82,7 +82,7 @@
   color: rgba(255,255,255,0.85);
   font-size: calc(0.9rem * var(--font-size-scale));
   letter-spacing: 0.1em;
-  font-weight: 400;
+  font-weight: 700;
 }
 
 [data-theme="silver"] .tab-block__tab {
@@ -134,7 +134,7 @@
 }
 
 [data-theme="silver"] .header-nav {
-  height: 72px;
+  height: 64px;
 }
 
 [data-theme="silver"] .header-nav a {

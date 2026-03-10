@@ -22,13 +22,13 @@
   --border-radius-sm: 2px;
   --border-radius-lg: 4px;
   --spacing-scale: 1;
-  --letter-spacing: 0.05em;
+  --letter-spacing: 0.02em;
   --transition-speed: 0.25s;
   --hero-overlay: linear-gradient(180deg, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.8) 100%);
   --button-radius: 2px;
   --button-padding: 14px 40px;
-  --button-font-weight: 900;
-  --button-text-transform: uppercase;
+  --button-font-weight: 700;
+  --button-text-transform: none;
   --card-shadow: 0 4px 20px rgba(0,0,0,0.5);
   --card-radius: 2px;
   --nav-bg: rgba(0,0,0,0.95);
@@ -55,23 +55,17 @@
 
 [data-theme="sports"] .hero-overline {
   color: #EA0016;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  font-weight: 900;
-  font-size: 0.85rem;
+  letter-spacing: 0.1em;
+  font-weight: 700;
 }
 
 [data-theme="sports"] .hero-headline {
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.02em;
 }
 
 [data-theme="sports"] .btn-primary {
   background: #EA0016;
   border-radius: 2px;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-weight: 900;
 }
 
 [data-theme="sports"] .btn-primary:hover {

@@ -89,8 +89,7 @@
   color: #FF6B35;
   text-shadow: none;
   font-weight: 700;
-  letter-spacing: 0.08em;
-  font-size: 0.9rem;
+  letter-spacing: 0.1em;
 }
 
 [data-theme="genz"] .tab-block__tab {

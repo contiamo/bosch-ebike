@@ -137,7 +137,7 @@ const VARIANTS = {
   },
 
   genz: {
-    nav: ['Bikes', 'Style', 'Community', 'App'],
+    nav: ['Produkte', 'eBikes', 'Service & Beratung', 'Magazin', 'Über uns', 'Business'],
     hero: {
       overlines: ['City Vibes', 'Trail Modus', 'Cargo Life', 'Wochenend-Energie'],
       headline: 'Dein Bike. Dein\u00A0Ding.',
@@ -268,7 +268,7 @@ const VARIANTS = {
   },
 
   sports: {
-    nav: ['Bikes', 'Performance', 'Trails', 'Ausrüstung'],
+    nav: ['Produkte', 'eBikes', 'Service & Beratung', 'Magazin', 'Über uns', 'Business'],
     hero: {
       overlines: ['Volle Power', 'Race Modus', 'Extremes Gelände', 'Ausdauer'],
       headline: 'Der Trail gehört dir.',
@@ -399,7 +399,7 @@ const VARIANTS = {
   },
 
   silver: {
-    nav: ['eBikes', 'Beratung', 'Sicherheit', 'Service'],
+    nav: ['Produkte', 'eBikes', 'Service & Beratung', 'Magazin', 'Über uns', 'Business'],
     hero: {
       overlines: ['Komfort', 'Sicherheit', 'Gesundheit', 'Genuss'],
       headline: 'Entspannt unterwegs. Sicher ankommen.',
