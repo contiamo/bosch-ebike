@@ -1050,9 +1050,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .switcher-btn[data-theme="default"] .switcher-dot { background: #EA0016; }
-.switcher-btn[data-theme="genz"] .switcher-dot { background: #FF6B35; }
-.switcher-btn[data-theme="sports"] .switcher-dot { background: #EA0016; }
 .switcher-btn[data-theme="silver"] .switcher-dot { background: #005691; }
+.switcher-btn[data-theme="sports"] .switcher-dot { background: #EA0016; }
 
 .switcher-shortcut {
   font-size: 0.6rem;

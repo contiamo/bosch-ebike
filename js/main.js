@@ -365,9 +365,9 @@
     // Keyboard shortcut: 1-4 to switch themes
     document.addEventListener('keydown', (e) => {
       if (e.target.tagName === 'INPUT') return;
-      const themes = ['default', 'genz', 'sports', 'silver'];
+      const themes = ['default', 'silver', 'sports'];
       const num = parseInt(e.key);
-      if (num >= 1 && num <= 4) {
+      if (num >= 1 && num <= 3) {
         switchTheme(themes[num - 1]);
       }
     });

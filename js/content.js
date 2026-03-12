@@ -18,7 +18,7 @@ const VARIANTS = {
         },
         {
           title: 'Wir nehmen Sicherheit persönlich',
-          text: 'Wir arbeiten an innovativen Lösungen für mehr Sicherheit – ob eBike ABS oder digitales Schloss.',
+          text: 'Wir arbeiten an innovativen Lösungen für mehr Sicherheit - ob eBike ABS oder digitales Schloss.',
           image: 'https://www.bosch-ebike.com/fileadmin/_processed_/a/b/csm_Bosch-eBike-Urban-Strasbourg-MY2026-JM00997_b5ecba2bd0.webp?_=1753433920'
         },
         {
@@ -136,206 +136,206 @@ const VARIANTS = {
     }
   },
 
-  genz: {
+  silver: {
     nav: ['Produkte', 'eBikes', 'Service & Beratung', 'Magazin', 'Über uns', 'Business'],
     hero: {
-      overlines: ['City Vibes', 'Trail Modus', 'Cargo Life', 'Wochenend-Energie'],
-      headline: 'Dein Bike. Dein\u00A0Ding.',
-      subtext: 'Dein Ride, dein Style. Smarte eBike-Systeme, die zu deinem Leben passen – vernetzt, nachhaltig und ready für alles.',
-      image: 'assets/generated/genz/hero.webp'
+      overlines: ['Pendeln', 'Einkaufen', 'Familienzeit', 'Stadtleben'],
+      headline: 'Einfach ankommen. Entspannt losfahren.',
+      subtext: 'Ob zur Arbeit, zum Kindergarten oder zum Einkaufen: dein eCity Bike mit Bosch-Antrieb macht den Alltag komfortabler, sicherer und schneller als Auto oder Bus.',
+      image: 'assets/generated/silver/hero.webp'
     },
     slider: {
-      overline: 'So geht eBike',
-      headline: 'Was Bosch anders macht',
+      overline: 'Warum Bosch?',
+      headline: 'eBike-Technologie, der du vertrauen kannst',
       slides: [
         {
-          title: 'Macht mit. Macht lange mit.',
-          text: 'Kein Wegwerfprodukt. Bosch-Qualität hält – und das ist gut so für dich und den Planeten.',
-          image: 'assets/generated/genz/slider-1.webp'
+          title: 'Qualität, die sich bewährt',
+          text: 'Jede Bosch eBike-Komponente wird umfassend getestet. Das Ergebnis: ein System, das zuverlässig funktioniert, Tag für Tag, bei jedem Wetter.',
+          image: 'assets/generated/silver/slider-1.webp'
         },
         {
-          title: 'Safe unterwegs',
-          text: 'ABS fürs Bike, digitales Schloss – damit du sorgenfrei cruisen kannst.',
-          image: 'assets/generated/genz/slider-2.webp'
+          title: 'Sicher unterwegs mit eBike ABS',
+          text: 'Das eBike ABS verhindert das Blockieren des Vorderrads beim Bremsen. Dazu kommt der digitale Diebstahlschutz, damit dein eBike sicher abgestellt bleibt.',
+          image: 'assets/generated/silver/slider-2.webp'
         },
         {
-          title: 'Alles connected',
-          text: 'Dein Bike, dein Phone, deine Lieblingsapps – alles in einem Flow.',
-          image: 'assets/generated/genz/slider-3.webp'
+          title: 'Akku-Reichweite, die reicht',
+          text: 'Mit dem abnehmbaren Bosch PowerPack erreichst du Reichweiten, die deinen gesamten Arbeitsweg und die Einkaufsrunde abdecken. Einfach zu Hause oder im Büro laden.',
+          image: 'assets/generated/silver/slider-3.webp'
         },
         {
-          title: 'Support, wenn du ihn brauchst',
-          text: 'Expert*innen im Fachhandel, die wirklich Ahnung haben.',
-          image: 'assets/generated/genz/slider-4.webp'
+          title: 'Beratung vom Fachhändler',
+          text: 'Vor dem eBike-Kauf empfehlen wir eine persönliche Beratung und Probefahrt beim zertifizierten Fachhändler. So findest du das eBike, das wirklich zu dir passt.',
+          image: 'assets/generated/silver/slider-4.webp'
         },
         {
-          title: 'Nachhaltig mobil',
-          text: 'Weniger Emissionen, mehr Fahrspaß. eBiken ist aktiver Klimaschutz.',
-          image: 'assets/generated/genz/slider-5.webp'
+          title: 'Nachhaltig mobil im Alltag',
+          text: 'Jede Fahrt mit dem eBike statt dem Auto spart CO2 und Parkplatzstress. Langlebige Bosch-Komponenten sorgen dafür, dass du lange Freude daran hast.',
+          image: 'assets/generated/silver/slider-5.webp'
         }
       ]
     },
     tabs: {
-      overline: 'Dein Ride, dein Style',
-      headline: 'Welches Bike passt zu dir?',
+      overline: 'Dein eBike für jeden Anlass',
+      headline: 'Finde das passende eBike für deinen Alltag',
       items: [
         {
-          label: 'City',
-          title: 'Urban Flow',
-          text: 'Stylisch durch die Stadt gleiten. Kompakt, smart und immer on point.',
-          cta: 'Zeig mir mehr',
-          image: 'assets/generated/genz/tab-city.webp'
+          label: 'Pendeln',
+          title: 'Schneller als Auto und Bus',
+          text: 'Kein Stau, kein Parkplatzsuchen: mit dem eCity Bike bist du pünktlich und entspannt am Ziel. Der Bosch-Antrieb sorgt dafür, dass du frisch ankommst.',
+          cta: 'City eBikes entdecken',
+          image: 'assets/generated/silver/tab-komfort.webp'
         },
         {
-          label: 'Lifestyle',
-          title: 'Mach dein Ding',
-          text: 'Dein Bike, dein Ausdruck. Für alle, die ihr eigenes Tempo fahren.',
-          cta: 'Zeig mir mehr',
-          image: 'assets/generated/genz/tab-lifestyle.webp'
+          label: 'Einkaufen',
+          title: 'Einkäufe bequem transportieren',
+          text: 'Lenkerkorb, Kindersitz oder Gepäckträger: mit dem richtigen Zubehör wird dein eBike zum praktischen Alltagsbegleiter für Besorgungen und Transporte.',
+          cta: 'Transport-eBikes',
+          image: 'assets/generated/silver/tab-einkauf.webp'
+        },
+        {
+          label: 'Familie',
+          title: 'Sicher unterwegs mit Kind',
+          text: 'Mit Kindersitz, stabilem Rahmen und zuverlässigem ABS bringst du dein Kind sicher zum Kindergarten. Der abnehmbare Akku lässt sich einfach über Nacht laden.',
+          cta: 'eBikes für Familien',
+          image: 'assets/generated/silver/tab-stadt.webp'
         },
         {
           label: 'Wochenende',
-          title: 'Ab ins Wochenende',
-          text: 'Raus aus der Stadt, rein ins Abenteuer. Jedes Wochenende ein neues Ziel.',
-          cta: 'Zeig mir mehr',
-          image: 'assets/generated/genz/tab-wochenende.webp'
-        },
-        {
-          label: 'Cargo',
-          title: 'Alles drauf, alles drin',
-          text: 'Großeinkauf, Festival-Gear oder den Hund – alles passt drauf.',
-          cta: 'Zeig mir mehr',
-          image: 'assets/generated/genz/tab-cargo.webp'
+          title: 'Raus in die Natur',
+          text: 'Am Wochenende die Umgebung entdecken: mit dem eTrekking Bike und ausreichend Akku-Reichweite genießt du entspannte Touren ohne Anstrengung.',
+          cta: 'Touren-eBikes',
+          image: 'assets/generated/silver/tab-touring.webp'
         }
       ]
     },
     systemTeaser: {
-      headline: 'Das Bosch-System',
+      headline: 'Unsere Produkte',
       items: [
         { label: 'Systeme', image: 'https://www.bosch-ebike.com/fileadmin/_processed_/d/e/csm_DE-p1-Bosch-eBike-Group-MY2025_1920x1920_System-Teaser_3bfe6dc545.png?_=1731525028' },
-        { label: 'Motoren', image: 'https://www.bosch-ebike.com/fileadmin/_processed_/6/c/csm_Bosch-eBike-Group-PerformanceLine-CX-PerformanceLine-CXR-DriveUnit-BES3_1920x1920_System-Teaser_698eb154a5.png?_=1747237733' },
+        { label: 'Antriebe', image: 'https://www.bosch-ebike.com/fileadmin/_processed_/6/c/csm_Bosch-eBike-Group-PerformanceLine-CX-PerformanceLine-CXR-DriveUnit-BES3_1920x1920_System-Teaser_698eb154a5.png?_=1747237733' },
         { label: 'Displays', image: 'https://www.bosch-ebike.com/fileadmin/_processed_/0/2/csm_Bosch-eBike-LEDRemote-5SOC-BES3-MY2022_Kiox300-eMTB-Statusbar-Battery-BES3-MY2022-DE_1920x1920_System-Teaser_73d58854b8.png?_=1731574240' },
         { label: 'Akkus', image: 'https://www.bosch-ebike.com/fileadmin/_processed_/2/6/csm_Bosch-eBike-Group-PowerPack800-CompactTube400-BES3_1920x1920_System-Teaser_bd50b33265.png?_=1710846355' },
-        { label: 'Flow App', image: 'https://www.bosch-ebike.com/fileadmin/_processed_/e/6/csm_Bosch-eBike-Group-eBike-Flow-Bike-App-Outline-eBike-App-Icon_1920x1920_System-Teaser_ab621c99bc.png?_=1706283693' },
+        { label: 'Apps & Services', image: 'https://www.bosch-ebike.com/fileadmin/_processed_/e/6/csm_Bosch-eBike-Group-eBike-Flow-Bike-App-Outline-eBike-App-Icon_1920x1920_System-Teaser_ab621c99bc.png?_=1706283693' },
         { label: 'ABS', image: 'https://www.bosch-ebike.com/fileadmin/_processed_/5/a/csm_Bosch-eBike-ABS-BES3-MY2025_MY2023-p1_1920x1920_System-Teaser_756beabbd7.png?_=1731343295' }
       ]
     },
-    brandTagline: 'Invented for life',
+    brandTagline: 'Technik fürs Leben',
     app: {
-      overline: 'Dein Bike. Dein Phone. Ein Flow.',
-      headline: 'Die App für deinen Ride',
+      overline: 'Einfach. Sicher. Vernetzt.',
+      headline: 'Die eBike Flow App',
       slides: [
-        { title: 'Diebstahlschutz', text: 'Dein Bike ist safe – automatisch gesichert, sobald du absteigst.' },
-        { title: 'Mach es deins', text: 'Customize dein Fahrerlebnis ganz nach deinem Geschmack.' },
-        { title: 'Deine Apps', text: 'Strava, komoot, Apple Health – alles connected.' },
-        { title: 'Flow App', text: 'Eine App für alles: Tracking, Settings, Community.' },
-        { title: 'Navi', text: 'Navigiere direkt am Lenker – mit Sprachausgabe.' },
-        { title: 'Routenplanung', text: 'Plane Routen, die zu deinem Style passen.' },
-        { title: 'Tracking', text: 'Alle deine Rides auf einen Blick.' }
+        { title: 'Diebstahlschutz', text: 'Dein eBike wird automatisch gesichert, sobald du es abstellst. Benachrichtigung bei Bewegung direkt auf dein Smartphone.' },
+        { title: 'Akku-Status', text: 'Behalte deine Akku-Reichweite im Blick und optimiere deinen Fahrstil für maximale Reichweite im Alltag.' },
+        { title: 'Google Maps am Lenker', text: 'Nutze dein Smartphone mit der Halterung am Lenker für Navigation. Kein separates Display nötig.' },
+        { title: 'eBike Flow App', text: 'Alle wichtigen Informationen zu deinem eBike auf einen Blick, von Akkustand bis Serviceintervall.' },
+        { title: 'Navigation', text: 'Lass dich zu deinem Ziel führen, ob Büro, Kita oder Supermarkt. Schnellste und fahrradfreundlichste Route.' },
+        { title: 'Routenplanung', text: 'Plane deine täglichen Strecken und spare Zeit gegenüber Auto oder Bus.' },
+        { title: 'Fahrtenbuch', text: 'Alle deine Fahrten auf einen Blick: gefahrene Kilometer, gesparte CO2-Emissionen und Kalorien.' }
       ]
     },
     categories: [
-      { name: 'eCity', image: 'assets/generated/genz/cat-ecity.webp' },
-      { name: 'eUrban', image: 'assets/generated/genz/cat-eurban.webp' },
-      { name: 'eSUV', image: 'assets/generated/genz/cat-esuv.webp' },
-      { name: 'eCargo', image: 'assets/generated/genz/cat-ecargo.webp' }
+      { name: 'eCity', image: 'assets/generated/silver/cat-ecity.webp' },
+      { name: 'eTrekking', image: 'assets/generated/silver/cat-etrekking.webp' },
+      { name: 'eCargo', image: 'assets/generated/silver/cat-ecargo.webp' },
+      { name: 'eSUV', image: 'assets/generated/silver/cat-esuv.webp' }
     ],
     news: {
-      headline: 'Neues von Bosch',
+      headline: 'Ratgeber & Tipps',
       items: [
         {
-          title: 'City Rides',
-          text: 'Die besten Routen für deinen Urban-Flow.',
-          image: 'assets/generated/genz/news-1.webp'
+          title: 'eBike-Kaufberatung: So findest du das richtige City-Bike',
+          text: 'Reichweite, Antrieb, Rahmenhöhe: worauf es beim eBike-Kauf wirklich ankommt.',
+          image: 'assets/generated/silver/news-1.webp'
         },
         {
-          title: 'Trail Stories',
-          text: 'Echte Abenteuer von echten Ridern.',
-          image: 'assets/generated/genz/news-2.webp'
+          title: 'Pendeln mit dem eBike: 5 Tipps für den Einstieg',
+          text: 'Von der richtigen Ausrüstung bis zur besten Route: so gelingt der Umstieg aufs eBike.',
+          image: 'assets/generated/silver/news-2.webp'
         },
         {
-          title: 'Best Brand 2025',
-          text: 'Die Community hat gewählt: Bosch.',
+          title: 'Best Brand Award 2025',
+          text: 'Bosch eBike Systems erneut als beste Marke ausgezeichnet.',
           image: 'https://www.bosch-ebike.com/fileadmin/_processed_/3/e/csm_E-MOUNTAINBIKE_BestBrand2025_Motors_RGB_1920x1080_01a1e69275.png?_=1762351412'
         }
       ]
     },
     dealer: {
-      headline: 'Finde deinen Bike-Shop',
-      subtext: 'Persönliche Beratung, Probefahrt und das volle Programm.',
-      ctaText: 'Shop finden'
+      headline: 'Finde einen Fachhändler in deiner Nähe',
+      subtext: 'Probiere verschiedene eBike-Typen aus und lass dich persönlich beraten. Eine Probefahrt ist der beste Weg zum richtigen eBike.',
+      ctaText: 'Händler finden'
     }
   },
 
   sports: {
     nav: ['Produkte', 'eBikes', 'Service & Beratung', 'Magazin', 'Über uns', 'Business'],
     hero: {
-      overlines: ['Volle Power', 'Race Modus', 'Extremes Gelände', 'Ausdauer'],
-      headline: 'Der Trail gehört dir.',
-      subtext: 'Maximale Power, minimales Gewicht. Die Performance Line CX liefert bis zu 85 Nm Drehmoment für technische Trails und steile Anstiege.',
+      overlines: ['Trails', 'Performance', 'Abenteuer', 'Technik'],
+      headline: 'Dein Trail. Deine\u00A0Leidenschaft.',
+      subtext: 'Ob steile Anstiege oder technische Abfahrten: das Light eMTB mit Bosch-Antrieb bringt dich weiter, als du es für möglich hältst. Leicht, kraftvoll und bereit für jedes Gelände.',
       image: 'assets/generated/sports/hero.webp'
     },
     slider: {
       overline: 'Trail-Technologie von Bosch',
-      headline: 'Technologie für den Trail',
+      headline: 'Engineered for the Trail',
       slides: [
         {
-          title: 'Bewährte Bosch-Qualität',
-          text: 'Getestet unter extremen Bedingungen. Jede Komponente muss härteste Prüfungen bestehen.',
+          title: 'Bewährte Qualität am Berg',
+          text: 'Getestet unter extremen Bedingungen: Schlamm, Steinschlag, Dauerbelastung. Jede Bosch eBike-Komponente muss härteste Prüfungen bestehen, bevor sie auf den Trail darf.',
           image: 'assets/generated/sports/slider-1.webp'
         },
         {
-          title: 'Sicherheit am Limit',
-          text: 'eBike ABS für kontrolliertes Bremsen auf jedem Untergrund – auf dem Trail und auf der Straße.',
+          title: 'Sicherheit, wenn es zählt',
+          text: 'Das eBike ABS sorgt für kontrolliertes Bremsen auf losem Untergrund und nassen Wurzeln. Dazu: Route Tracking und Assistance Switch für Notfälle.',
           image: 'assets/generated/sports/slider-2.webp'
         },
         {
           title: 'Connected Performance',
-          text: 'Echtzeit-Daten, individuelle Fahrmodi und OTA-Updates für dein System.',
+          text: 'Echtzeit-Daten auf dem Kiox 300 Display, individuelle Fahrmodi per App und automatische Synchronisation mit Strava und komoot.',
           image: 'assets/generated/sports/slider-3.webp'
         },
         {
-          title: 'Service von Profis',
-          text: 'Zertifizierte Fachhändler für Wartung, Tuning und professionelle Beratung.',
+          title: 'Service von Trail-Experten',
+          text: 'Zertifizierte Fachhändler kennen dein Bosch-System und bieten professionelle Wartung, Tuning und Kaufberatung für dein eMTB.',
           image: 'assets/generated/sports/slider-4.webp'
         },
         {
           title: 'Nachhaltige Performance',
-          text: 'Langlebige Komponenten, reparierbar und recycelbar. Leistung mit Verantwortung.',
+          text: 'Langlebige eBike-Komponenten, reparierbar und recycelbar. Hohe Reichweite bei geringem Gewicht, damit du mehr Trail pro Akkuladung bekommst.',
           image: 'assets/generated/sports/slider-5.webp'
         }
       ]
     },
     tabs: {
-      overline: 'Für jedes Terrain',
+      overline: 'Für jedes Gelände',
       headline: 'Wähle deine Disziplin',
       items: [
         {
           label: 'Trail',
           title: 'Volle Kontrolle auf dem Trail',
-          text: '85 Nm Drehmoment. Bis zu 340% Unterstützung. Die Performance Line CX macht jeden Trail zu deinem Spielplatz.',
-          cta: 'Bikes entdecken',
+          text: 'Die Performance Line CX liefert bis zu 85 Nm Drehmoment und bis zu 340% Unterstützung. Ob flowige Trails oder technische Passagen: du hast die Kontrolle.',
+          cta: 'Trail-eMTBs entdecken',
           image: 'assets/generated/sports/tab-trail.webp'
         },
         {
-          label: 'Enduro',
-          title: 'Enduro ohne Kompromisse',
-          text: 'Maximale Kontrolle bei maximaler Geschwindigkeit. Extended Boost hält die Power, wenn du sie brauchst.',
-          cta: 'Zur Ausstattung',
+          label: 'Light eMTB',
+          title: 'Leicht und trotzdem stark',
+          text: 'Der Performance Line SX wiegt nur 2 kg und liefert 55 Nm. Das Ergebnis: ein eMTB, das sich wie ein normales Mountainbike fährt, mit Extra-Power bergauf.',
+          cta: 'Light eMTBs vergleichen',
           image: 'assets/generated/sports/tab-enduro.webp'
         },
         {
           label: 'Race',
-          title: 'Race-Performance',
-          text: 'Die CX Race Limited Edition: 2,7 kg leicht, 85 Nm stark. Entwickelt für den Sieg.',
-          cta: 'Race Setup',
+          title: 'Race-Performance am Limit',
+          text: 'Die CX Race Limited Edition: 2,7 kg leicht, 85 Nm stark. Entwickelt für eMTB-Rennen und ambitionierte Fahrer, die alles aus sich herausholen.',
+          cta: 'Race Setup ansehen',
           image: 'assets/generated/sports/tab-race.webp'
         },
         {
-          label: 'All-Mountain',
-          title: 'Vielseitigkeit am Berg',
-          text: 'Uphill-Flow und Downhill-Spaß. Ein System für alle Bergdisziplinen.',
-          cta: 'Bikes vergleichen',
+          label: 'Gravel',
+          title: 'Abseits der Straße',
+          text: 'Mit dem Bosch-System fürs Gravel Bike kombinierst du Straße und Offroad. Ideal für lange Touren, gemischtes Terrain und Bikepacking-Abenteuer.',
+          cta: 'Gravel eBikes',
           image: 'assets/generated/sports/tab-all-mountain.webp'
         }
       ]
@@ -351,18 +351,18 @@ const VARIANTS = {
         { label: 'ABS', image: 'https://www.bosch-ebike.com/fileadmin/_processed_/5/a/csm_Bosch-eBike-ABS-BES3-MY2025_MY2023-p1_1920x1920_System-Teaser_756beabbd7.png?_=1731343295' }
       ]
     },
-    brandTagline: 'Performance. Ohne Kompromisse.',
+    brandTagline: 'Keine Kompromisse. Nur Trail.',
     app: {
-      overline: 'Daten. Analysen. Kontrolle.',
-      headline: 'Dein digitaler Co-Pilot',
+      overline: 'Daten. Routen. Kontrolle.',
+      headline: 'Dein digitaler Trail-Partner',
       slides: [
-        { title: 'Diebstahlschutz', text: 'Automatische Sicherung deines Performance-Bikes.' },
-        { title: 'Fahrmodi', text: 'Individuelle Motor-Kennlinien für jedes Terrain.' },
-        { title: 'Strava Sync', text: 'Automatische Synchronisation mit Strava und komoot.' },
-        { title: 'eBike Flow App', text: 'Alle Performance-Daten auf einen Blick.' },
-        { title: 'Trail Navigation', text: 'Turn-by-Turn Navigation auf dem Kiox 300.' },
-        { title: 'Routenplanung', text: 'Plane technische Trails mit Höhenprofil und Schwierigkeit.' },
-        { title: 'Leistungsdaten', text: 'Wattzahl, Kadenz und Herzfrequenz in Echtzeit.' }
+        { title: 'Diebstahlschutz', text: 'Automatische Sicherung deines eMTB nach jeder Fahrt. Bewegungsalarm direkt aufs Smartphone.' },
+        { title: 'Fahrmodi anpassen', text: 'Individuelle Motor-Kennlinien für Trail, Enduro oder Tour. Passe die Unterstützung an dein Gelände an.' },
+        { title: 'Strava & komoot Sync', text: 'Automatische Synchronisation deiner Rides mit Strava und komoot. Teile Routen und vergleiche dich mit Freunden.' },
+        { title: 'eBike Flow App', text: 'Alle Performance-Daten auf einen Blick: Akku-Reichweite, Motorleistung, Fahrmodus und Systemstatus.' },
+        { title: 'Trail-Navigation', text: 'Turn-by-Turn Navigation auf dem Kiox 300. Folge geplanten Routen oder lass dich zu neuen Trails führen.' },
+        { title: 'Routenplanung', text: 'Plane Trails mit Höhenprofil, Schwierigkeitsgrad und geschätzter Akku-Reichweite. Exportiere sie direkt an dein Display.' },
+        { title: 'Leistungsdaten', text: 'Geschwindigkeit, Trittfrequenz, Höhenmeter und Fahrzeit. Tracke deinen Fortschritt und verbessere dich Fahrt für Fahrt.' }
       ]
     },
     categories: [
@@ -375,156 +375,25 @@ const VARIANTS = {
       headline: 'Trail News',
       items: [
         {
-          title: 'Trail Technik',
-          text: 'Fahrwerk, Reifendruck, Fahrmodi: So holst du alles aus deinem Setup raus.',
+          title: 'eMTB-Kaufberatung: Trail, Enduro oder Light?',
+          text: 'Welches eMTB passt zu deinem Fahrstil? Motor, Reichweite und Gewicht im Vergleich.',
           image: 'assets/generated/sports/news-1.webp'
         },
         {
-          title: 'Race Report',
-          text: 'Die Highlights der eMTB World Series.',
+          title: 'Route Tracking mit Strava und Garmin',
+          text: 'So nutzt du die Bosch eBike Flow App zusammen mit deinen Lieblings-Tracking-Tools.',
           image: 'assets/generated/sports/news-2.webp'
         },
         {
-          title: 'Best Brand 2025',
-          text: 'Erneut #1 bei den E-MOUNTAINBIKE Lesern.',
+          title: 'Best Brand Award 2025',
+          text: 'Erneut #1 bei den E-MOUNTAINBIKE Lesern. Bosch-Antriebe überzeugen auf dem Trail.',
           image: 'https://www.bosch-ebike.com/fileadmin/_processed_/3/e/csm_E-MOUNTAINBIKE_BestBrand2025_Motors_RGB_1920x1080_01a1e69275.png?_=1762351412'
         }
       ]
     },
     dealer: {
-      headline: 'Finde deinen Performance-Partner',
-      subtext: 'Zertifizierte Händler mit Trail-Expertise und professionellem Service.',
-      ctaText: 'Händler finden'
-    }
-  },
-
-  silver: {
-    nav: ['Produkte', 'eBikes', 'Service & Beratung', 'Magazin', 'Über uns', 'Business'],
-    hero: {
-      overlines: ['Komfort', 'Sicherheit', 'Gesundheit', 'Genuss'],
-      headline: 'Entspannt unterwegs. Sicher ankommen.',
-      subtext: 'Genießen Sie das Radfahren mit dem sicheren Gefühl eines zuverlässigen Bosch-Systems – mit einfacher Bedienung und komfortabler Unterstützung.',
-      image: 'assets/generated/silver/hero.webp'
-    },
-    slider: {
-      overline: 'Sicher unterwegs mit Bosch',
-      headline: 'Für Fahrfreude, auf die Sie sich verlassen können',
-      slides: [
-        {
-          title: 'Bewährte Bosch-Qualität',
-          text: 'Jedes Produkt wird umfassend geprüft und getestet. Für Ihre Sicherheit und langanhaltende Freude am eBike.',
-          image: 'assets/generated/silver/slider-1.webp'
-        },
-        {
-          title: 'Ihre Sicherheit ist uns wichtig',
-          text: 'Das eBike ABS verhindert das Blockieren des Vorderrads und sorgt für sicheres Bremsen – auch bei Nässe.',
-          image: 'assets/generated/silver/slider-2.webp'
-        },
-        {
-          title: 'Leicht zu bedienen',
-          text: 'Große, gut lesbare Displays und eine klare Steuerung sorgen dafür, dass Sie sich sofort zurechtfinden. Die kostenlose Bosch-App unterstützt Sie dabei.',
-          image: 'assets/generated/silver/slider-3.webp'
-        },
-        {
-          title: 'Persönliche Beratung',
-          text: 'Im Fachhandel erhalten Sie kompetente Beratung, eine ausführliche Probefahrt und zuverlässigen Service.',
-          image: 'assets/generated/silver/slider-4.webp'
-        },
-        {
-          title: 'Nachhaltig unterwegs',
-          text: 'Mit dem eBike leisten Sie einen Beitrag zur umweltfreundlichen Mobilität – bei jeder Fahrt.',
-          image: 'assets/generated/silver/slider-5.webp'
-        }
-      ]
-    },
-    tabs: {
-      overline: 'Das passende eBike für Sie',
-      headline: 'Finden Sie Ihr eBike',
-      items: [
-        {
-          label: 'Komfort',
-          title: 'Komfortabel durch den Alltag',
-          text: 'Mit tiefem Einstieg und aufrechter Sitzposition fahren Sie bequem und sicher – auch auf längeren Strecken.',
-          cta: 'Mehr erfahren',
-          image: 'assets/generated/silver/tab-komfort.webp'
-        },
-        {
-          label: 'Touren',
-          title: 'Genussvolle Touren',
-          text: 'Entdecken Sie neue Wege und genießen Sie die Natur – mit zuverlässiger Unterstützung auf jeder Tour.',
-          cta: 'Touren-eBikes',
-          image: 'assets/generated/silver/tab-touring.webp'
-        },
-        {
-          label: 'Stadt',
-          title: 'Sicher durch die Stadt',
-          text: 'Mit ABS und guter Beleuchtung sind Sie im Straßenverkehr bestens geschützt.',
-          cta: 'Stadt-eBikes',
-          image: 'assets/generated/silver/tab-stadt.webp'
-        },
-        {
-          label: 'Transport',
-          title: 'Alles bequem mitnehmen',
-          text: 'Ob Einkäufe, Gartenutensilien oder ein Besuch bei der Familie: mit einem Transport-eBike haben Sie immer genug Platz.',
-          cta: 'Entdecken',
-          image: 'assets/generated/silver/tab-einkauf.webp'
-        }
-      ]
-    },
-    systemTeaser: {
-      headline: 'Unsere Produkte für Sie',
-      items: [
-        { label: 'Systeme', image: 'https://www.bosch-ebike.com/fileadmin/_processed_/d/e/csm_DE-p1-Bosch-eBike-Group-MY2025_1920x1920_System-Teaser_3bfe6dc545.png?_=1731525028' },
-        { label: 'Antriebe', image: 'https://www.bosch-ebike.com/fileadmin/_processed_/6/c/csm_Bosch-eBike-Group-PerformanceLine-CX-PerformanceLine-CXR-DriveUnit-BES3_1920x1920_System-Teaser_698eb154a5.png?_=1747237733' },
-        { label: 'Displays', image: 'https://www.bosch-ebike.com/fileadmin/_processed_/0/2/csm_Bosch-eBike-LEDRemote-5SOC-BES3-MY2022_Kiox300-eMTB-Statusbar-Battery-BES3-MY2022-DE_1920x1920_System-Teaser_73d58854b8.png?_=1731574240' },
-        { label: 'Akkus', image: 'https://www.bosch-ebike.com/fileadmin/_processed_/2/6/csm_Bosch-eBike-Group-PowerPack800-CompactTube400-BES3_1920x1920_System-Teaser_bd50b33265.png?_=1710846355' },
-        { label: 'Apps & Services', image: 'https://www.bosch-ebike.com/fileadmin/_processed_/e/6/csm_Bosch-eBike-Group-eBike-Flow-Bike-App-Outline-eBike-App-Icon_1920x1920_System-Teaser_ab621c99bc.png?_=1706283693' },
-        { label: 'ABS', image: 'https://www.bosch-ebike.com/fileadmin/_processed_/5/a/csm_Bosch-eBike-ABS-BES3-MY2025_MY2023-p1_1920x1920_System-Teaser_756beabbd7.png?_=1731343295' }
-      ]
-    },
-    brandTagline: 'Technik fürs Leben',
-    app: {
-      overline: 'Einfach. Sicher. Smart.',
-      headline: 'Die eBike Flow App',
-      slides: [
-        { title: 'Diebstahlschutz', text: 'Ihr eBike wird automatisch gesichert – für ein beruhigendes Gefühl.' },
-        { title: 'Einrichtung mit Anleitung', text: 'Die App führt Sie Schritt für Schritt durch die Einrichtung. Bei Fragen hilft Ihnen auch Ihr Fachhändler gerne weiter.' },
-        { title: 'Gesundheitsdaten', text: 'Verbinden Sie die App mit Apple Health für Ihre Fitness-Übersicht.' },
-        { title: 'eBike Flow App', text: 'Alle wichtigen Informationen zu Ihrem eBike auf einen Blick.' },
-        { title: 'Navigation', text: 'Lassen Sie sich bequem zu Ihrem Ziel führen – mit klaren Anweisungen.' },
-        { title: 'Routenplanung', text: 'Planen Sie Ihre Ausflüge vorab und passen Sie die Route an Ihre Wünsche an.' },
-        { title: 'Fahrtenbuch', text: 'Alle Ihre Fahrten werden übersichtlich aufgezeichnet.' }
-      ]
-    },
-    categories: [
-      { name: 'eCity', image: 'assets/generated/silver/cat-ecity.webp' },
-      { name: 'eTrekking', image: 'assets/generated/silver/cat-etrekking.webp' },
-      { name: 'eSUV', image: 'assets/generated/silver/cat-esuv.webp' },
-      { name: 'eCargo', image: 'assets/generated/silver/cat-ecargo.webp' }
-    ],
-    news: {
-      headline: 'Neuigkeiten',
-      items: [
-        {
-          title: 'Ihr Start ins eBike-Fahren',
-          text: 'Hilfreiche Tipps für alle, die zum ersten Mal mit einem eBike unterwegs sind.',
-          image: 'assets/generated/silver/news-1.webp'
-        },
-        {
-          title: 'Touren-Empfehlungen',
-          text: 'Die schönsten Routen für entspannte Ausflüge mit dem eBike.',
-          image: 'assets/generated/silver/news-2.webp'
-        },
-        {
-          title: 'Ausgezeichnete Qualität',
-          text: 'Bosch eBike Systems erneut als beste Marke ausgezeichnet.',
-          image: 'https://www.bosch-ebike.com/fileadmin/_processed_/3/e/csm_E-MOUNTAINBIKE_BestBrand2025_Motors_RGB_1920x1080_01a1e69275.png?_=1762351412'
-        }
-      ]
-    },
-    dealer: {
-      headline: 'Persönliche Beratung vor Ort',
-      subtext: 'Finden Sie einen zertifizierten Fachhändler in Ihrer Nähe. Telefonische Beratung: 0800 123 4567',
+      headline: 'Finde deinen Trail-Experten',
+      subtext: 'Zertifizierte Fachhändler mit eMTB-Expertise: Probefahrt, Kaufberatung und professioneller Service für dein Bosch-System.',
       ctaText: 'Händler finden'
     }
   }
